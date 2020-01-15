@@ -6,9 +6,3 @@ def reverse_each_word(sentences)
     puts "#{sentence}.reverse"
   end
 end
-
-def reverse_each_word(sentences)
-  sentences.collect do |sentence|
-    puts "#{sentence}.reverse"
-  end
-end
