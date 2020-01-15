@@ -6,4 +6,5 @@ def reverse_each_word(sentences)
   words_reverse = words.each do |word|
     word.reverse
   end
+  words_reverse
 end
