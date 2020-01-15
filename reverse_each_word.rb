@@ -4,3 +4,5 @@ sentences = [sentence_1, sentence_2]
 def reverse_each_word(sentences)
   sentences.each do |sentence|
     puts "#{sentence}.reverse"
+  end
+end
